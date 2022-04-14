@@ -1,0 +1,10 @@
+win10x64--21H2
+https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x64_bc0efec7eb2782ac45b1749fb902a80e16832c4a.msu
+
+win10-1809
+
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5012647-x64_546889f367caf2a1edd79f5db7d8507e7a53e31b.msu
+
+
+8.1x32
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2021/06/windows8.1-kb5003671-x86_19f305de28d12c07f4068117a2cc480c925ea5bf.msu
